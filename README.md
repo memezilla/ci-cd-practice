@@ -23,8 +23,6 @@ gcloud config get-value project
 - Start with `docker run -p 8080:8080 ci-cd-practice`
 - Open in your browser at `http://localhost:8080`
 
-## Disclaimer
+## Reference
 
-Node.js 14 is not yet in active Long-term support (LTS), it is not recommended to use it in production yet.
-
-This is not an official Google product.
+- [403 Error Forbidden](https://cloud.google.com/run/docs/securing/managing-access#console-ui)
